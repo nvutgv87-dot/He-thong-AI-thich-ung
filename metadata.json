@@ -1,0 +1,6 @@
+{
+  "name": "ADAPTIVE STUDENT SUPPORT AI",
+  "description": "Hệ thống AI thích ứng phát hiện sớm nguy cơ suy giảm chú ý và trì hoãn học tập của học sinh THPT, đề xuất can thiệp cá nhân hóa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
